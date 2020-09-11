@@ -1,6 +1,6 @@
 import React from "react";
 import GradientsList from "./GradientsList";
-import GradientsSelect from "./GradientsSelect";
+import GradientsSelect from "./components/GradientsSelect"
 
 const Gradients = () => {
   return (

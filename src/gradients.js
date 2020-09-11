@@ -171,4 +171,4 @@ function allTags(list) {
 
 const uniqueTags = allTags(gradients);
 
-export default gradients;
+export default uniqueTags;

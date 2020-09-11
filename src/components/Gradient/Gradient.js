@@ -1,5 +1,5 @@
 import React from "react";
-import "bootstrap/dist/css/bootstrap.css";
+
 import GradientCode from "./GradientCode";
 import GradientPill from "./GradientPill";
 import GradientTitle from "./GradientTitle";

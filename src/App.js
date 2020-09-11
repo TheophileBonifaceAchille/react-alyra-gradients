@@ -1,8 +1,11 @@
 import React from "react";
+import "bootstrap/dist/css/bootstrap.css";
+
 import GradientsHeader from "./components/GradientsHeader";
 import Footer from "./components/Footer";
 import GradientsList from "./components/GradientsList";
 import gradients from "./gradients";
+
 
 function App() {
   return (
